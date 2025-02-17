@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 17 10:59:21 2025
-
-@author: RC
-"""
 import matplotlib.pyplot as plt
 import numpy as np
 import glob
